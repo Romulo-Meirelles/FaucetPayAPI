@@ -1,0 +1,11 @@
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\bin\Debug\net5.0\FaucetPay.deps.json
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\bin\Debug\net5.0\FaucetPay.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\bin\Debug\net5.0\ref\FaucetPay.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\bin\Debug\net5.0\FaucetPay.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\ref\FaucetPay.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\FaucetPay\obj\Debug\net5.0\FaucetPay.pdb

@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay\\FaucetPay_Net.Core.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay\\FaucetPay_Net.Core.vbproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay\\FaucetPay_Net.Core.vbproj",
+        "projectName": "FaucetPay_Net.Core",
+        "projectPath": "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay\\FaucetPay_Net.Core.vbproj",
+        "packagesPath": "C:\\Users\\Romulo Meirelles\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Romulo Meirelles\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packages.nuget.org/v1/FeedService.svc/": {},
+          "https://www.nuget.org/api/v1/": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
