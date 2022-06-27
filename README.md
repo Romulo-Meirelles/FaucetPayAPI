@@ -16,11 +16,7 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
 
 <br> Some examples of how to use.<br>
 
-  Imports System
-Imports FaucetPay.FaucetPayAPI
-
-Module Program
-    Sub Main(args As String())
+     Sub Main(args As String())
 
         Using API As New FaucetPayAPIClient("880bcd6696e47c9472e18bf986e8bb33448bfa10")
 
@@ -70,4 +66,3 @@ Module Program
 
 
     End Sub
-End Module
