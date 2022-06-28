@@ -25,6 +25,9 @@ Namespace Models
         Friend Function Payouts(API As String, ByVal Logs As Boolean, Optional Currency As String = "BTC", Optional Count As String = "") As List(Of String)
             Payouts = New List(Of String)
             Dim Request As String = Nothing
+            If Int(Count) > 100 Then
+                Count = Str(100)
+            End If
             Try
                 Dim Post = New PostRequest()
                 Dim Site As String = "https://faucetpay.io/api/v1/payouts"
