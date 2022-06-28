@@ -13,7 +13,7 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
 - Manage your cryptocurrencies
 - Easy to Use
 
-<br><h1> Some examples of how to use.</h1><br>
+<br><h1> ✨ Some examples of how to use. ✨</h1><br>
 
 ```VB
      Sub Main(args As String())
