@@ -41,8 +41,11 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
                     Console.WriteLine("Recent Payout: " & RecentPayout(i))
                 Next
 
-                Dim CheckAddress = API.CheckAddressExist("19EsDy2kzS1jANgm7M5hdYvgh26uMsgGzu", "BTC")
-                Console.WriteLine("Check Wallet Exist: " & CheckAddress.ToString)
+                Dim CheckAddressExist = API.CheckAddressExist("19EsDy2kzS1jANgm7M5hdYvgh26uMsgGzu", "BTC")
+                Console.WriteLine("Check Wallet Exist: " & CheckAddressExist.ToString)
+
+                Dim HashUser = API.CheckAddress("19EsDy2kzS1jANgm7M5hdYvgh26uMsgGzu", "BTC")
+                Console.WriteLine("Hash User: " & HashUser.ToString)
 
                 Dim SendPayment = API.SendPay("1", "19EsDy2kzS1jANgm7M5hdYvgh26uMsgGzu", "BTC")
                 For i = 0 To SendPayment.Count - 1
@@ -69,18 +72,23 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
 
 ```VB
          Using API As New FaucetPayAPIClient("880bcd6696e47c9472e18bf986e8bb33448bfa10") '<-- Your API FaucetPay
-                Dim MyBalanceBTC = API.GetBalance("BTC")
+                Dim MyBalanceBTC = API.GetBalance("BTC") '<-- Currency Required
                 For i = 0 To MyBalanceBTC.Count - 1
                     Console.WriteLine("My Balance: " & MyBalanceBTC(i))
                 Next
+         End Using
+ ```
+  
+   <h1> BALANCE ALL CURRENCIES.</h1>
 
-                Dim MyBalance = API.GetBalanceAll()
+```VB
+         Using API As New FaucetPayAPIClient("880bcd6696e47c9472e18bf986e8bb33448bfa10") '<-- Your API FaucetPay
+                Dim MyBalance = API.GetBalanceAll() '<-- Not Currency Required
                 For i = 0 To MyBalance.Count - 1
                     Console.WriteLine("My Balance: " & MyBalance(i))
                 Next
         End Using
  ```
-        
         
   <h1> LIST CURRENCIES.</h1>
 
@@ -111,6 +119,16 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
                 Console.WriteLine("Check Wallet Exist: " & CheckAddress.ToString) '<-- Boolean
          End Using
 ```
+
+ <h1> CHECK USER HASH.</h1>
+        
+```VB
+         Using API As New FaucetPayAPIClient("880bcd6696e47c9472e18bf986e8bb33448bfa10") '<-- Your API FaucetPay
+                Dim UserHash = API.CheckAddress("19EsDy2kzS1jANgm7M5hdYvgh26uMsgGzu", "BTC") '<-- Wallet Required and Currency Optional
+                Console.WriteLine("User Hash: " & UserHash.ToString) '<-- Hash Code
+         End Using
+```
+
    <h1> SEND PAYMENTS.</h1>
                 
 ```VB
