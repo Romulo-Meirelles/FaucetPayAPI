@@ -12,7 +12,6 @@ API for you to make a cryptocurrency management platform on FaucetPay, Through t
 - Check payment HASH.
 - Manage your cryptocurrencies
 - Easy to Use
-
 <br><h1> ✨ Some examples of how to use. ✨</h1><br>
 
 ```VB
