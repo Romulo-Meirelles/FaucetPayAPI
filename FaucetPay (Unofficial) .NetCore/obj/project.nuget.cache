@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "exxu5UBY/xSAqlwml5QeR2TpPLoavlGXPETS8kiIPBO43sYx+01lA5BAeOYWRiXj0G912hBFbvJO/+nqCuCZTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Romulo Meirelles\\source\\repos\\FaucetPay\\FaucetPay (Unofficial) .NetCore\\FaucetPay (Unofficial) .NetCore.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Romulo Meirelles\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

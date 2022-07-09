@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>FaucetPay</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <StartupObject></StartupObject>
+    <ApplicationIcon>FaucePay.ico</ApplicationIcon>
+    <AssemblyName>FaucetPay</AssemblyName>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="FaucePay.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="FaucePay.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+</Project>
