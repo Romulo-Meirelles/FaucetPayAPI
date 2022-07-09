@@ -1,0 +1,17 @@
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Test_API.Net_FrameWork.exe.config
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Test_API.Net_FrameWork.exe
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Test_API.Net_FrameWork.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Test_API.Net_FrameWork.xml
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\FaucetPay.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\FaucetPay.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\FaucetPay.xml
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test API .Net FrameWork.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test_API.Net_FrameWork.Resources.resources
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test API .Net FrameWork.vbproj.GenerateResource.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test API .Net FrameWork.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test API .Net FrameWork.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test_API.Net_FrameWork.exe
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test_API.Net_FrameWork.xml
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\Test API .Net FrameWork\obj\Debug\Test_API.Net_FrameWork.pdb

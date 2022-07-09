@@ -1,0 +1,20 @@
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.exe
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.deps.json
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.runtimeconfig.json
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.runtimeconfig.dev.json
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\ref\TestAPI .NetCore.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\TestAPI .NetCore.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\FaucetPay .Net Core.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\bin\Debug\net5.0\FaucetPay .Net Core.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.vbproj.AssemblyReference.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.AssemblyInfoInputs.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.AssemblyInfo.vb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.vbproj.CoreCompileInputs.cache
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.vbproj.CopyComplete
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\ref\TestAPI .NetCore.dll
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.pdb
+C:\Users\Romulo Meirelles\source\repos\FaucetPay\TestAPI\obj\Debug\net5.0\TestAPI .NetCore.genruntimeconfig.cache

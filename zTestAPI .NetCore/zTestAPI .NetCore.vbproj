@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>TestAPI</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+    <StartupObject>Sub Main</StartupObject>
+    <Platforms>AnyCPU;x64;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FaucetPay (Unofficial) .NetCore\FaucetPay (Unofficial) .NetCore.vbproj" />
+  </ItemGroup>
+
+</Project>
